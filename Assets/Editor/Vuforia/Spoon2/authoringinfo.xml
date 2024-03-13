@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v6.1.1">
+        <ModelTarget name="Spoon2" targetId="52a479288823401d968a2e4ead8404ed" version="13.0" toolVersion="v6.1.1" bbox="0.019757 0.027140 -0.138942 0.074692 0.053991 0.141760" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="Spoon2" assemblyId="33ed1d4b3d5d4ace8e1268e3c1fe7931">
+        <Part name="Spoon2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65733af92181e4b38b032d1b58e28fc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mCenterPrefab: {instanceID: 0}
+  - mUpperLibPrefab: {instanceID: 0}
+  - mLowerLibPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

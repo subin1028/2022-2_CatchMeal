@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://eatinginteresting-default-rtdb.firebaseio.com/</string>
+  <string name="gcm_defaultSenderId" translatable="false">546228687470</string>
+  <string name="google_storage_bucket" translatable="false">eatinginteresting.appspot.com</string>
+  <string name="project_id" translatable="false">eatinginteresting</string>
+  <string name="google_api_key" translatable="false">AIzaSyCoEVDeqkB0XUD4NTHJ0gDmRDRvC-w-GQw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCoEVDeqkB0XUD4NTHJ0gDmRDRvC-w-GQw</string>
+  <string name="google_app_id" translatable="false">1:546228687470:android:260b25b30b62f3f825cc7f</string>
+  <string name="default_web_client_id" translatable="false">546228687470-scg8bp5ejd4p1iekus0o6ouptesjl7ok.apps.googleusercontent.com</string>
+</resources>
